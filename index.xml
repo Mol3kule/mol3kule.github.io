@@ -6,14 +6,14 @@
     <description>Recent content on Danielius Hugo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2026 18:51:23 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 19:05:00 +0300</lastBuildDate>
     <atom:link href="https://mol3kule.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Danielius</title>
+      <title>Building Better Developer Habits</title>
       <link>https://mol3kule.github.io/posts/danielius/</link>
-      <pubDate>Sat, 09 May 2026 18:51:23 +0300</pubDate>
+      <pubDate>Sat, 09 May 2026 19:05:00 +0300</pubDate>
       <guid>https://mol3kule.github.io/posts/danielius/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;img src=&#34;https://mol3kule.github.io/images/image1.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;building-better-developer-habits&#34;&gt;&#xD;&#xA;  Building Better Developer Habits&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#building-better-developer-habits&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Most productivity improvements do not come from huge changes.&lt;br&gt;&#xA;They come from repeating small actions consistently.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-keep-projects-simple&#34;&gt;&#xD;&#xA;  1. Keep projects simple&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#1-keep-projects-simple&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;A simple codebase is easier to maintain, debug, and scale.&lt;br&gt;&#xA;Before adding another dependency or abstraction layer, ask yourself if it is actually necessary.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-automate-repetitive-work&#34;&gt;&#xD;&#xA;  2. Automate repetitive work&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#2-automate-repetitive-work&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Anything you do more than three times should probably be automated.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -6,13 +6,27 @@
     <description>Recent content in Tags on Danielius Hugo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 May 2026 18:51:23 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 19:05:00 +0300</lastBuildDate>
     <atom:link href="https://mol3kule.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://mol3kule.github.io/tags/test/</link>
-      <pubDate>Sat, 09 May 2026 18:51:23 +0300</pubDate>
-      <guid>https://mol3kule.github.io/tags/test/</guid>
+      <title>Development</title>
+      <link>https://mol3kule.github.io/tags/development/</link>
+      <pubDate>Sat, 09 May 2026 19:05:00 +0300</pubDate>
+      <guid>https://mol3kule.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity</title>
+      <link>https://mol3kule.github.io/tags/productivity/</link>
+      <pubDate>Sat, 09 May 2026 19:05:00 +0300</pubDate>
+      <guid>https://mol3kule.github.io/tags/productivity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tech</title>
+      <link>https://mol3kule.github.io/tags/tech/</link>
+      <pubDate>Sat, 09 May 2026 19:05:00 +0300</pubDate>
+      <guid>https://mol3kule.github.io/tags/tech/</guid>
       <description></description>
     </item>
   </channel>
